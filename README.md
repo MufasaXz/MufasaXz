@@ -15,11 +15,11 @@ $ cat about.txt
 > ROM Maintainer for Xiaomi Pad 6
 > Project Infinity-X | AfterlifeOS | crDroid
 
-$ cloud/                                        languages/                                 tools/
-  ├── azure                                     ├── python                                 ├── git
-  ├── gcp                                       ├── c                                      ├── linux
-  ├── aws                                       ├── c++                                    └── github_actions
-  └── oracle                                    └── bash
+$ cloud/                         languages/                            tools/
+  ├── azure                      ├── python                            ├── git
+  ├── gcp                        ├── c                                 ├── linux
+  ├── aws                        ├── c++                               └── github_actions
+  └── oracle                     └── bash
   
 ```
 <div align="center">
