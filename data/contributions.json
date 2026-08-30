@@ -1,22 +1,22 @@
 {
   "username": "MufasaXz",
-  "generated_at": "2026-08-29T12:42:49Z",
+  "generated_at": "2026-08-30T11:56:56Z",
   "range": {
-    "start": "2025-08-24",
-    "end": "2026-08-29"
+    "start": "2025-08-31",
+    "end": "2026-08-30"
   },
-  "total_contributions": 464,
-  "active_days": 85,
-  "avg_per_active_day": 5.5,
+  "total_contributions": 453,
+  "active_days": 81,
+  "avg_per_active_day": 5.6,
   "current_streak": {
-    "length": 5,
+    "length": 6,
     "start": "2026-08-25",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "longest_streak": {
-    "length": 5,
+    "length": 6,
     "start": "2026-08-25",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-07-17",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 28
+      "total": 0
     },
     {
       "month": "2025-09",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 113
+      "total": 130
     }
   ],
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 5
-    },
-    {
-      "date": "2025-08-25",
-      "count": 3
-    },
-    {
-      "date": "2025-08-26",
-      "count": 0
-    },
-    {
-      "date": "2025-08-27",
-      "count": 7
-    },
-    {
-      "date": "2025-08-28",
-      "count": 8
-    },
-    {
-      "date": "2025-08-29",
-      "count": 5
-    },
-    {
-      "date": "2025-08-30",
-      "count": 0
-    },
     {
       "date": "2025-08-31",
       "count": 0
@@ -1447,7 +1419,7 @@
     },
     {
       "date": "2026-08-01",
-      "count": 15
+      "count": 17
     },
     {
       "date": "2026-08-02",
@@ -1515,7 +1487,7 @@
     },
     {
       "date": "2026-08-18",
-      "count": 17
+      "count": 19
     },
     {
       "date": "2026-08-19",
@@ -1535,7 +1507,7 @@
     },
     {
       "date": "2026-08-23",
-      "count": 11
+      "count": 12
     },
     {
       "date": "2026-08-24",
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-08-29",
-      "count": 9
+      "count": 18
+    },
+    {
+      "date": "2026-08-30",
+      "count": 3
     }
   ]
 }
